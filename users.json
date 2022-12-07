@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Jayaprakash (Admin)",
+        "uname": "project4admin",
+        "password": "admin2022",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "name": "Jayaprakash",
+        "uname": "prakash4user",
+        "password": "user2022",
+        "role": "user"
+    },
+    {
+        "id": 3,
+        "name": "Naresh Kumar",
+        "uname": "nareshk",
+        "password": "admin2022",
+        "role": "user"
+    },
+    {
+        "id": 4,
+        "name": "Suresh",
+        "uname": "suresh",
+        "password": "admin2022",
+        "role": "user"
+    },
+    {
+        "id": 5,
+        "name": "Test User 2",
+        "uname": "project9user",
+        "password": "user9@2022",
+        "role": "user"
+    },
+    {
+        "id": 6,
+        "name": "EMP 06",
+        "uname": "nareshkf",
+        "password": "admin2022",
+        "role": "user"
+    }
+]
